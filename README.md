@@ -22,4 +22,4 @@ Largest Greek dictionary for SymSpell, consisting of over 1.3 million unique wor
 
 ### 2. `EnglishDictionary.txt`
 
-Just the [symspell](https://github.com/wolfgarbe/SymSpell/tree/master/SymSpell.FrequencyDictionary) official dictionary.
+Just the official [symspell](https://github.com/wolfgarbe/SymSpell/tree/master/SymSpell.FrequencyDictionary) dictionary.
