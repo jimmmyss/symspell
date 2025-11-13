@@ -4,10 +4,11 @@ import unicodedata
 import random
 from symspellpy import SymSpell
 
+# Add the directory of both dictionaries
 sym_spell_el = SymSpell()
-sym_spell_el.load_dictionary('/home/jimmys/glossapi/spellcheck/lexicon_freq.txt', term_index=0, count_index=1)
+sym_spell_el.load_dictionary('/', term_index=0, count_index=1)
 sym_spell_en = SymSpell()
-sym_spell_en.load_dictionary('/home/jimmys/glossapi/spellcheck/en-80k.txt', term_index=0, count_index=1)
+sym_spell_en.load_dictionary('/', term_index=0, count_index=1)
 
 dataset_dir = '/home/jimmys/glossapi/spellcheck/dataset'
 files = sorted([f for f in os.listdir(dataset_dir) if f.endswith('.md')])
