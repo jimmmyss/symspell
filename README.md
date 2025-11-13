@@ -18,7 +18,7 @@ Largest Greek dictionary for SymSpell, consisting of over 1.3 million unique wor
 - [Orthos](https://sourceforge.net/projects/orthos-spell/)
 - [Hunspell](https://sourceforge.net/projects/grspell/files/hunspell-gr/) (With all possible Greek word forms generated from the root entries)
 - [kaikki](https://kaikki.org/dictionary/Greek/)
-- [Wiktionary](https://el.wiktionary.org/wiki/%CE%9A%CE%B1%CF%84%CE%B7%CE%B3%CE%BF%CF%81%CE%AF%CE%B1:%CE%9D%CE%AD%CE%B1_%CE%B5%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC)
+- [Wiktionary](https://el.wiktionary.org/wiki/%CE%9A%CE%B1%CF%84%CE%B7%CE%B3%CE%BF%CF%81%CE%AF%CE%B1:%CE%9D%CE%AD%CE%B1_%CE%B5%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC) (With all Greek names and surnames included)
 
 ### 2. `EnglishDictionary.txt`
 
